@@ -1,6 +1,3 @@
-# Installation
-> `npm install --save @types/delaunator`
-
 # Summary
 This package contains type definitions for delaunator (https://github.com/mapbox/delaunator#readme).
 
